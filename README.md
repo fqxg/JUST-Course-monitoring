@@ -1,3 +1,4 @@
+Still under development 
 # JUST Course Seat Monitor (Telegram bot)
 
 Watches course sections on the JUST Course Schedule and messages you when a section goes from
